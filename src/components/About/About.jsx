@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'Technical enthusiast skilled in Web development and Data analysis having strong knowledge of Teradata, Tableau, MERN Stack, Python, Photoshop, Software Requirements, Software Testing.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    '7+ years of extensive experience in providing strategic IT Solutions in Banking/Financial Services/Healthcare. Experience in diverse areas of SDLC, which includes Requirement Analysis, Architect/Design, Development, Testing, Implementation, Maintenance and leading of Enterprise scale multi-tier server/client side applications. .'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || 'Strong SQL knowledge, UML Design experience in designing/database using VISIO and development in ,  Git, React, Redux, Ionic, Adobe XD (for prototype), C#, ASP.NET Core, ASP.NET MVC, UML, TypeScript, MS TEST, REST Services, JQuery, Bootstrap, AJAX, JSON, Agile, TDD, Entity Framework,  Design Pattern and architecture, XML, WSDL, HTML, Oracle 10, SQL Server 8/12/14, MongoDB, Visual Studio, ATOM.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
