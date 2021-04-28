@@ -28,12 +28,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project1.jpg',
+    title: 'SPA',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://chandeep.netlify.app/',
+    repo: 'https://github.com/deepcs/portfolio', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project2.jpg',
+    title: 'Webzone',
+    info: '',
+    info2: '',
+    url: 'https://web-zone.netlify.app/',
+    repo: 'https://github.com/deepcs/_webzone', // if no repo, the button will not show up
   }
 ];
 
