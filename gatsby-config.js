@@ -1,5 +1,14 @@
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "G-YRQZQXTSTL",
+        head: true,
+        // Setting this parameter is optional
+        anonymize: true,
+      },
+    } ,
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
