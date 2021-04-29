@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://chandeep.netlify.app/`,
+    siteUrl: `https://chandeep.netlify.app`,
   },
   plugins: [
     {
@@ -19,6 +19,7 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-sitemap`,
     'gatsby-plugin-robots-txt',
+    'gatsby-plugin-next-seo',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
