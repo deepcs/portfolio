@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://chandeep.netlify.app/`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -14,6 +17,8 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-sitemap`,
+    'gatsby-plugin-robots-txt',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -28,6 +33,8 @@ module.exports = {
         path: `${__dirname}/src/pages/`,
       },
     },
+
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
