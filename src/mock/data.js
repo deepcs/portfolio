@@ -2,15 +2,15 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Chandeep', // e.g: 'Name | Developer'
+  title: 'Chandeep Singh', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my website.The aim of this website is to create a platform to interact and divcuss the new tech trends available in market', // e.g: Welcome to my website
+  description: 'Welcome to my website.The aim of this website is to create a platform to interact and discuss the new opportunities and tech trends available in market. It is a great platform for people or creaters whow are willing to collaborate and create a future that is good for everyone', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: 'Chandeep',
+  title: 'Developer',
+  name: 'Chandeep Singh',
   subtitle: 'IT Analyst',
   cta: '',
 };
@@ -28,19 +28,19 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project1.jpg',
+    img: 'project1.jpg' ,
     title: 'SPA',
-    info: '',
-    info2: '',
-    url: 'https://chandeep.netlify.app/',
+    info: 'Founded in 2003, FASpa is Canada’s premier online spa marketplace. ',
+    info2: 'This platform uses power of wordpress and All-in-Migration plugin alomh with PHP,SQL, and LAMP server',
+    url: 'https://retail.altervista.org',
     repo: 'https://github.com/deepcs/portfolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Webzone',
-    info: '',
-    info2: '',
+    info: 'Webzone is an ecommerce paltform designed to cater the current need of the people. In this coviid crisis, it is hihgly required to build apps to help people and businesses',
+    info2: 'It uses React, Hooks, Node, Mongo and firefox',
     url: 'https://web-zone.netlify.app/',
     repo: 'https://github.com/deepcs/_webzone', // if no repo, the button will not show up
   }
