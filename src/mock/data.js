@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Chandeep Singh', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: `Web development Data analysis Teradata Tableau MERN Stack Python Photoshop Software Requirements Software Testing IT Solutions SDLC.The aim of this website is to create a platform to interact and discuss the new opportunities and tech trends available in market. It is a great platform for people or creaters whow are willing to collaborate and create a future that is good for everyone`, // e.g: Welcome to my website
+  description: `Web development Data analysis Teradata Tableau MERN Stack Python Photoshop Software Requirements Software Testing IT Solutions SDLC.The aim of this website is to create a platform to interact and discuss the new opportunities and tech trends available in market. It is a great platform for people or creaters whow are willing to collaborate and create a future that is good for everyone` // e.g: Welcome to my website
 };
 
 // HERO DATA
