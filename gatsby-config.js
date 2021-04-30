@@ -1,7 +1,32 @@
 module.exports = {
-  siteMetadata: {
-    siteUrl: `https://chandeep.netlify.app`,
-  },
+ 
+      siteMetadata: {
+        title : `Chandeep Portfolio`,
+        description : `Welcome to my website.The aim of this website is to create a platform to interact and discuss the new opportunities and tech trends available in market. It is a great platform for people or creaters whow are willing to collaborate and create a future that is good for everyone', // e.g: Welcome to my website`,
+        author : `Chandeep`,
+        siteUrl : `https://chandeep.netlify.app`,
+       
+        
+        // socialLinks {
+        //   twitter
+        //   linkedin
+        //   facebook
+        //   stackOverflow
+        //   github
+        //   instagram
+        //   pinterest
+        //   youtube
+        //   email
+        //   phone
+        //   fax
+        //   address
+        // }
+        keywords : ` `,
+        organization: {
+          name :`conestoga `,
+          url :`https://www.conestogac.on.ca`,
+        }
+      },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
