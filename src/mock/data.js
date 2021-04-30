@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Chandeep Singh', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Technical enthusiast skilled in Web development and Data analysis having strong knowledge of Teradata, Tableau, MERN Stack, Python, Photoshop, Software Requirements, Software Testing7+ years of extensive experience in providing strategic IT Solutions in Banking/Financial Services/Healthcare. Experience in diverse areas of SDLC, which includes Requirement Analysis, Architect/Design, Development, Testing, Implementation, Maintenance and leading of Enterprise scale multi-tier server/client side applications. .Strong SQL knowledge, UML Design experience in designing/database using VISIO and development in , Git, React, Redux, Ionic, Adobe XD (for prototype), C#, ASP.NET Core, ASP.NET MVC, UML, TypeScript, MS TEST, REST Services, JQuery, Bootstrap, AJAX, JSON, Agile, TDD, Entity Framework, Design Pattern and architecture, XML, WSDL, HTML, Oracle 10, SQL Server 8/12/14, MongoDB, Visual Studio, ATOM.', // e.g: Welcome to my website
+  description: 'Web development Data analysis Teradata, Tableau, MERN Stack, Python, Photoshop, Software Requirements, Software Testing IT Solutions SDLC, Requirement Analysis, Architect/Design, Development, Testing, Implementation, Maintenance server/client applications Git, React, Redux, Ionic, ASP.NET Core, ASP.NET MVC, UML, TypeScript, MS TEST, REST Services, JQuery, Bootstrap, AJAX, JSON, Agile, TDD, Entity Framework, Design Pattern and architecture, XML, WSDL, HTML, Oracle 10, SQL Server 8/12/14, MongoDB, Visual Studio, ATOM.', // e.g: Welcome to my website
   keywords : `SQL, Javascript, Developer, Technology`
 };
 
