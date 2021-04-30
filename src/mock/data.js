@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Chandeep Singh', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: `Technical enthusiast skilled in Web development and Data analysis having strong knowledge of Teradata, Tableau, MERN Stack, Python, Photoshop, Software Requirements, Software Testing,computer systems analysts, technical and business needs, Business analysts,analyzing and implementing efficient IT systems,create and execute,creating and examining the functional specifications` // e.g: Welcome to my website
+  description: `Technical enthusiast skilled in Web development and Data analysis having strong knowledge of Teradata, Tableau, MERN Stack, Python, Photoshop, Software Requirements, Software Testing,computer systems analysts, ` // e.g: Welcome to my website
 };
 
 // HERO DATA
